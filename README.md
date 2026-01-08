@@ -1,3 +1,3 @@
-# UnB-Studies
+# APC & OO
 
- Some of studies that I've worked in my stay at UnB
+Exercicios e provas das disciplinas Algortimos e Programação de Computadores (APC) e Orientação a Objetos (OO)
